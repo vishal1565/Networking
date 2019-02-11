@@ -1,3 +1,4 @@
-# PROBLEM STATEMENT
-<b>1. </b>Write a ftp server and client.</br></br>
-<b>2. </b> Find the geolocation of a client connecting to your server.
+# PROBLEM STATEMENT 1
+Write a ftp server and client.</br></br>
+# PROBLEM STATEMENT 2
+Find the geolocation of a client connecting to your server.
