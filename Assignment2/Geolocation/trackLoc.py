@@ -4,7 +4,7 @@ import webbrowser
 import os
 import sys
 
-readDB = geoip2.database.Reader('./Geolite2-City.mmdb')
+readDB = geoip2.database.Reader('./GeoLite2-City/Geolite2-City.mmdb')
 add = input("Enter IP Address: ")
 getLoc = readDB.city(add)
 print("Country :",getLoc.country.name)
